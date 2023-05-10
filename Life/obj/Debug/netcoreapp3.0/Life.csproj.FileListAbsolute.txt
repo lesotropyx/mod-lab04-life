@@ -1,0 +1,13 @@
+C:\Users\Ruslan\Downloads\LIFE\mod-lab04-life-main\mod-lab04-life-main\Life\bin\Debug\netcoreapp3.0\Life.exe
+C:\Users\Ruslan\Downloads\LIFE\mod-lab04-life-main\mod-lab04-life-main\Life\bin\Debug\netcoreapp3.0\Life.deps.json
+C:\Users\Ruslan\Downloads\LIFE\mod-lab04-life-main\mod-lab04-life-main\Life\bin\Debug\netcoreapp3.0\Life.runtimeconfig.json
+C:\Users\Ruslan\Downloads\LIFE\mod-lab04-life-main\mod-lab04-life-main\Life\bin\Debug\netcoreapp3.0\Life.runtimeconfig.dev.json
+C:\Users\Ruslan\Downloads\LIFE\mod-lab04-life-main\mod-lab04-life-main\Life\bin\Debug\netcoreapp3.0\Life.dll
+C:\Users\Ruslan\Downloads\LIFE\mod-lab04-life-main\mod-lab04-life-main\Life\bin\Debug\netcoreapp3.0\Life.pdb
+C:\Users\Ruslan\Downloads\LIFE\mod-lab04-life-main\mod-lab04-life-main\Life\obj\Debug\netcoreapp3.0\Life.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Ruslan\Downloads\LIFE\mod-lab04-life-main\mod-lab04-life-main\Life\obj\Debug\netcoreapp3.0\Life.AssemblyInfoInputs.cache
+C:\Users\Ruslan\Downloads\LIFE\mod-lab04-life-main\mod-lab04-life-main\Life\obj\Debug\netcoreapp3.0\Life.AssemblyInfo.cs
+C:\Users\Ruslan\Downloads\LIFE\mod-lab04-life-main\mod-lab04-life-main\Life\obj\Debug\netcoreapp3.0\Life.csproj.CoreCompileInputs.cache
+C:\Users\Ruslan\Downloads\LIFE\mod-lab04-life-main\mod-lab04-life-main\Life\obj\Debug\netcoreapp3.0\Life.dll
+C:\Users\Ruslan\Downloads\LIFE\mod-lab04-life-main\mod-lab04-life-main\Life\obj\Debug\netcoreapp3.0\Life.pdb
+C:\Users\Ruslan\Downloads\LIFE\mod-lab04-life-main\mod-lab04-life-main\Life\obj\Debug\netcoreapp3.0\Life.genruntimeconfig.cache
